@@ -42,11 +42,11 @@ ALLOW_REPLY_FEEDS = {"feed 3", "feed 4"}
 
 LIJSTEN = {
     "lijst 1": {"link": "", "note": "PROMO LIST (bovenaan)"},
-    "lijst 2": {"link": "", "note": ""},
-    "lijst 3": {"link": "", "note": ""},
-    "lijst 4": {"link": "", "note": ""},
-    "lijst 5": {"link": "", "note": ""},
-    "lijst 6": {"link": "", "note": ""},
+    "lijst 2": {"link": "https://bsky.app/profile/did:plc:zmyydkc2zzznc4smjufuerlx/lists/3mhs2vtwixg2q", "accounts1": ""},
+    "lijst 3": {"link": "https://bsky.app/profile/did:plc:zmyydkc2zzznc4smjufuerlx/lists/3mhs2sfidsl2b", "note": "photographers 1"},
+    "lijst 4": {"link": "https://bsky.app/profile/did:plc:zmyydkc2zzznc4smjufuerlx/lists/3mhs2xmxmos2l", "note": ""},
+    "lijst 5": {"link": "", "note": "accounts 2"},
+    "lijst 6": {"link": "https://bsky.app/profile/did:plc:zmyydkc2zzznc4smjufuerlx/lists/3mhs2tplyaj23", "note": "photographers 2"},
     "lijst 7": {"link": "", "note": ""},
     "lijst 8": {"link": "", "note": ""},
     "lijst 9": {"link": "", "note": ""},
@@ -59,7 +59,7 @@ LIJSTEN = {
 # ============================================================
 
 HASHTAGS = [
-    "",
+    "bleuskyphoto",
     "",
     "",
 ]
@@ -71,7 +71,7 @@ HASHTAGS = [
 # ============================================================
 
 EXCLUDE_LISTS = {
-    "exclude 1": {"link": "", "note": "blacklist / spam"},
+    "exclude 1": {"link": "https://bsky.app/profile/did:plc:zmyydkc2zzznc4smjufuerlx/lists/3mhvr6h7mbs2t", "note": "blacklist / spam"},
     "exclude 2": {"link": "", "note": ""},
     "exclude 3": {"link": "", "note": ""},
 }
